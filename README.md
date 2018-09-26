@@ -13,5 +13,5 @@
 
 2. 导入idea，并运行QdemoApplication
 
-3. 访问http://localhost/swagger-ui.html对test方法进行测试
+3. 访问http://localhost/swagger-ui.html 对test方法进行测试
 
